@@ -29,17 +29,17 @@ En este ejercicio, crearemos un juego de "Piedra, Papel o Tijera" utilizando HTM
 
 ## La estructura podría ser la siguiente:
 
-- Opciones en un array
-- Variables puntos usuario
-- Variables puntos ordenador
+- Opciones en un array ✅
+- Variables puntos usuario ✅
+- Variables puntos ordenador ✅
 - Capturar los botones para usarlos (plantea usar un forEach) y hacer evento click
 - Capturar resultados
 - Capturar contador-usuario
 - Capturar contador-ordenador
-- Crear una función obtenerResultado
+- Crear una función obtenerResultado ✅
 - Crear una función mostrarResultado
 - Crear una función actualizarPuntuacion
 
 Piensa antes de hacer. Divide los problemas y luego programa
 
-Let´s CODE!!!
+Let´s CODE!!!   
